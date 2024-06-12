@@ -114,6 +114,4 @@ alias upgrade='sudo apt update && sudo apt upgrade -y'
 alias gitadd='git add -p && git status'
 alias gitdev='git checkout developer && git pull'
 alias dropdb='dropdb -U estmi -h localhost'
-alias sshserver='ssh Server'
 export GITHUB_TOKEN=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
-export GITHUB_TOKEN=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
