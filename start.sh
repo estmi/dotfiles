@@ -1,3 +1,5 @@
 #/bin/zsh
-ln ~/.zshrc .zshrc
-ln .ssh/config .ssh/config
+rm ~/.zshrc 
+ln .zshrc ~/.zshrc
+rm ~/.ssh/config
+ln .ssh/config ~/.ssh/config
