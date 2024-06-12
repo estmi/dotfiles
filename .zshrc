@@ -1,0 +1,1 @@
+/home/estmi/.zshrc
